@@ -1,0 +1,15 @@
+K:\Desktop\GB_EDU\bin\Debug\net6.0\GB_EDU.exe
+K:\Desktop\GB_EDU\bin\Debug\net6.0\GB_EDU.deps.json
+K:\Desktop\GB_EDU\bin\Debug\net6.0\GB_EDU.runtimeconfig.json
+K:\Desktop\GB_EDU\bin\Debug\net6.0\GB_EDU.dll
+K:\Desktop\GB_EDU\bin\Debug\net6.0\GB_EDU.pdb
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.csproj.AssemblyReference.cache
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.GeneratedMSBuildEditorConfig.editorconfig
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.AssemblyInfoInputs.cache
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.AssemblyInfo.cs
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.csproj.CoreCompileInputs.cache
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.dll
+K:\Desktop\GB_EDU\obj\Debug\net6.0\refint\GB_EDU.dll
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.pdb
+K:\Desktop\GB_EDU\obj\Debug\net6.0\GB_EDU.genruntimeconfig.cache
+K:\Desktop\GB_EDU\obj\Debug\net6.0\ref\GB_EDU.dll
